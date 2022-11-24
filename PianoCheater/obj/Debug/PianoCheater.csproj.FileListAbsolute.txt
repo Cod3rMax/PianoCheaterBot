@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\PianoCheater\PianoCheater\bin\Debug\PianoCheater.exe.config
+C:\Users\User\Desktop\PianoCheater\PianoCheater\bin\Debug\PianoCheater.exe
+C:\Users\User\Desktop\PianoCheater\PianoCheater\bin\Debug\PianoCheater.pdb
+C:\Users\User\Desktop\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PianoCheater\PianoCheater\obj\Debug\PianoCheater.exe
+C:\Users\User\Desktop\PianoCheater\PianoCheater\obj\Debug\PianoCheater.pdb
