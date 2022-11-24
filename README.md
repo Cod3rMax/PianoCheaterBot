@@ -3,7 +3,7 @@
 
 Piano tiles cheater is a bot that help you get high score in Piano tiles game.
 
-
+![App Screenshot](https://i.postimg.cc/zGjRwd02/image.png)
 
 
 ## Authors
