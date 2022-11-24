@@ -14,3 +14,5 @@ B:\C#\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.SuggestedBindingRe
 B:\C#\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.CoreCompileInputs.cache
 B:\C#\PianoCheater\PianoCheater\obj\Debug\PianoCheater.exe
 B:\C#\PianoCheater\PianoCheater\obj\Debug\PianoCheater.pdb
+B:\C#\PianoCheater\PianoCheater\bin\Debug\Colorful.Console.dll
+B:\C#\PianoCheater\PianoCheater\obj\Debug\PianoCheater.csproj.CopyComplete
