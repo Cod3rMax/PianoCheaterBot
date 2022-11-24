@@ -27,7 +27,7 @@ namespace PianoCheater
         {
 
             Helper.GetWindowRectInfo.GetRectOfTheWindow(Helper.WindowFinder.GetPianoWindow());
-            
+            Console.WriteLine("Start the Game And Hold Button (X)");
             while (true)
             {
                 if (GetAsyncKeyState(Keys.X) < 0)
